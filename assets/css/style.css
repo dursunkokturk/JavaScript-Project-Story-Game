@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #1b4332, #081c15);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 600px;
+  max-width: 90%;
+  background: rgba(0,0,0,0.6);
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 20px black;
+}
+
+h1 {
+  text-align: center;
+}
+
+#story {
+  min-height: 120px;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.options button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 6px;
+  background: #2d6a4f;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.options button:hover {
+  background: #40916c;
+}
+
+.restart {
+  margin-top: 15px;
+  background: #d00000 !important;
+}
