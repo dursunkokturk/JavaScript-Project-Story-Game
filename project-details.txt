@@ -1,0 +1,6 @@
+Hikaye oyunu
+
+Detayları console.log() ile yazdırıp, soruları prompt ile sorabilirsiniz. İsterseniz DOM ile de yapabilirsiniz. (tercihen dom ile yapılmalı)
+
+    Bir hikaye kurgusu oluşturarak kullanıcıya bazı sorular sorun. soruların cevaplarına göre hikaye şekillensin ve sonucu değişsin.
+    minimum 6 soru sorulması gerekiyor. hikaye kurgusu için chatgpt veya bard kullanabilrsiniz ama kod yazdırmamalısınız.
