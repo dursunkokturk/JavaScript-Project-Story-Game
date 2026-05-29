@@ -2,6 +2,10 @@
 # Gizemli Orman — Hikaye Oyunu
 JavaScript ile geliştirilmiş, seçime dayalı interaktif bir metin macera oyunu. Oyuncu 6 soru boyunca verdiği cevaplara göre üç farklı sondan birini alır.
 
+[Canlı Önizleme](https://dursunkokturk.github.io/JavaScript-Project-Story-Game)
+
+![Proje Görseli](assets/img/javascript-project-story-game.png)
+
 ## Oynanış
 
 - Her sahnede oyuncuya bir durum ve 2 seçenek sunulur
