@@ -46,15 +46,16 @@ story-game/ <br>
         └── story-game.js <br>
 
 ## Kurulum
-Bağımlılık yoktur. Doğrudan tarayıcıda açılır.
-bash# Repoyu klonlayın
-git clone https://github.com/kullanici-adi/story-game.git
+Bağımlılık yoktur. Doğrudan tarayıcıda açılır. <br>
+bash# Repoyu klonlayın <br>
+git clone https://github.com/dursunkokturk/JavaScript-Project-Story-Game.git
 
 ### Proje klasörüne girin
-cd story-game
+cd JavaScript-Project-Story-Game
 
 ### index.html dosyasını tarayıcıda açın
-open index.html
+Proje klasörü içinde çift tıklayarak yada <br>
+Projeyi VSCode içinde açıp index.html dosyasının üzerinde sağ tıkladıktan sonra "Open With Live Server" tıklayarak projeyi browser'da açıyoruz.
 
 ## Tasarım Detayları
 
@@ -70,6 +71,10 @@ open index.html
 # EN
 # Mysterious Forest — Story Game
 An interactive text adventure game built with JavaScript, based on choices. The player receives one of three different endings based on their answers across 6 questions.
+
+[Live Preview](https://dursunkokturk.github.io/JavaScript-Project-Story-Game)
+
+![Proje Görseli](assets/img/javascript-project-story-game.png)
 
 ## Gameplay
 
@@ -111,15 +116,16 @@ story-game/ <br>
         └── story-game.js <br>
 
 ## Installation
-No dependencies. Opens directly in the browser.
-bash# Clone the repo
-git clone https://github.com/username/story-game.git
+No dependencies. Opens directly in the browser. <br>
+bash# Clone the repo <br>
+git clone https://github.com/dursunkokturk/JavaScript-Project-Story-Game.git
 
 ### Navigate to the project folder
-cd story-game
+cd JavaScript-Project-Story-Game
 
 ### Open index.html in the browser
-open index.html
+Open it by double-clicking inside the project folder, or <br>
+open the project in VSCode, right-click on the index.html file, and select "Open With Live Server" to launch it in the browser.
 
 ## Design Details
 
